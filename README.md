@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### What is Behavior Driven Developments? 
+- A variation of TDD that tests for user scenarios
+- Given, when, then...
+- Given notes, when deleting, when remove a note 
+- Bdd consists of scenarios/specifications
+
